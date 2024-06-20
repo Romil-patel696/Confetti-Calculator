@@ -1,8 +1,23 @@
-# React + Vite
+# Confetti Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web-based clone of the macOS Scientific Calculator built with React.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Basic arithmetic operations
+- Advanced functions like trigonometry, logarithms, exponents, and more
+- Special confetti explosion feature for operations involving 5 and 6
+- Responsive design with Roboto font
+- Light and dark mode theme switcher
+- Calculation history
+
+## Setup
+
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Run `npm start` to start the development server
+4. Open `http://localhost:3000` in your browser
+
+## Deployment
+
+This project can be deployed to Netlify, Vercel, or GitHub Pages.
